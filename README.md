@@ -1,6 +1,6 @@
 # bmiapp
 
-A new Flutter application.
+A new Flutter application to calculate body mass index (BMI) depends on gender, hight, weight, and age.
 
 ## Getting Started
 
